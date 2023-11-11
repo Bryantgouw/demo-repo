@@ -6,4 +6,6 @@ int main(){
     printf("val = %d",val);
     /* This is a comment */
     unsigned char found = 0;
+    /* This is a random comment */
+    char alphabet = 'A';
 }
